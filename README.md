@@ -1,4 +1,5 @@
-# Ensembled the inplementation to to make a consice repository
+# Ensembled the inplementation to to make a algorithmic
+ repository
 
 1)For Logistic Regression: 
 Download the glass dataset for the activity here: http://archive.ics.uci.edu/ml/machine-learning-databases/glass/glass.data
